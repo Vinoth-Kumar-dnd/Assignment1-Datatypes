@@ -21,7 +21,7 @@ public class Avg_Weight {
 		double avg=sum/10.0;
 		
 		System.out.println("Avg of Weights ");
-		for(int weight: weights) {
+		for(double weight: weights) {
 			
 			System.out.print(weight+" ");
 		}
